@@ -1,2 +1,2 @@
-# hellow-world
-Entonces pipol
+# Hola Mundo
+Entonces pipol, comenzando mi alrendizaje al desarrollo en linea.
